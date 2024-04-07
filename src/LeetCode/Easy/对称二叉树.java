@@ -1,7 +1,6 @@
 package LeetCode.Easy;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Objects;
 import java.util.concurrent.locks.ReentrantLock;
@@ -15,7 +14,6 @@ import java.util.concurrent.locks.ReentrantLock;
 public class 对称二叉树 {
 
     public static void main(String[] args) {
-        ReentrantLock
         TreeNode a = new TreeNode(1);
         a.left = new TreeNode(2);
         a.right = new TreeNode(2);
