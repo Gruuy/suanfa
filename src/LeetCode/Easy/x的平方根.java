@@ -1,6 +1,5 @@
 package LeetCode.Easy;
 
-import sun.text.resources.hr.FormatData_hr_HR;
 
 /**
  * @author: Gruuy
